@@ -4,7 +4,7 @@ import random
 
 #Création de la banque de couleurs
 colors = [arcade.csscolor.GOLD, arcade.csscolor.AQUAMARINE, arcade.csscolor.BLANCHED_ALMOND, arcade.csscolor.SLATE_GRAY, arcade.csscolor.DARK_GOLDENROD, arcade.csscolor.FOREST_GREEN, arcade.csscolor.DARK_SEA_GREEN,
-          arcade.csscolor.ROYAL_BLUE, arcade.csscolor.LIGHT_SLATE_GRAY, arcade.csscolor.PAPAYA_WHIP, arcade.csscolor.MEDIUM_PURPLE, arcade.csscolor.CORNSILK, arcade.csscolor.LIGHT_CORAL, arcade.csscolor.FLORAL_WHITE]
+          arcade.csscolor.ROYAL_BLUE, arcade.csscolor.LIGHT_SLATE_GRAY, arcade.csscolor.PAPAYA_WHIP, arcade.csscolor.MEDIUM_PURPLE, arcade.csscolor.DARK_TURQUOISE, arcade.csscolor.LIGHT_CORAL, arcade.csscolor.FLORAL_WHITE]
 
 #Définition des variables pour la taille de la fenêtre
 screen_width = 1200
